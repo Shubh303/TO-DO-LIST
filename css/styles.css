@@ -1,0 +1,26 @@
+body {
+	color: white;
+	background-image: url(ssss.png); 
+}
+
+#font {
+	font-family: 'Righteous', cursive;
+	font-size: 50px;
+}
+
+#add-form {
+  display: inline;
+}
+
+.done-false {
+  color: black;
+}
+
+.done-true {
+  color: gray;
+  text-decoration: line-through;
+}
+
+#wt {
+	color: white;
+}
